@@ -22,6 +22,9 @@ Keep scrolling through and join me on my journey to making better vizualizations
 
 ### Data Visualizations
 [to be added along the way]
+
+###### September 7, 2021: Redesign Exercise
+Here's an attempt at using the tool Flourish to visualize some data related to covid cases in King County between February 28 and April 12:
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205616"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Sketching Exercises
