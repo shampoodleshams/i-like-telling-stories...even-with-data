@@ -22,6 +22,7 @@ Keep scrolling through and join me on my journey to making better vizualizations
 
 ### Data Visualizations
 [to be added along the way]
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205616"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Sketching Exercises
 [to be added along the way]
