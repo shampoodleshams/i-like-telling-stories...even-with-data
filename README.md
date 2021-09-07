@@ -7,6 +7,8 @@ My name is Shambhavi (pronounced Shaaaambh-uh-vee) and I go by she/her pronouns.
 
 I really come alive when I get the chance to solve problems using creative methods. In the last 5 years, I studied Mathematics and Studio Art and then went on to work as marketing specialist at a nonprofit, through which I learned how to tell the agency's story better using data. It's what led me to pursue my current track- and this course. A strange fun fact about me is that I love flight food. 
 
+To learn a little more about me, my art and my secret passion for creative writing, you may view my personal website [here](https://www.shampoodleshams.com/).
+
 # What I Hope to Learn
 ## My short answer:
 How design and science can blend together to tell compelling stories, answer pressing questions, uncover mysterious secrets of the world and topple baseless myths. 
