@@ -15,6 +15,8 @@ How design and science can blend together to tell compelling stories, answer pre
 ## My longer answer:
 I think this course will help me find enjoyment in brainstorming data viz. solutions, something that might look deceptively simple. But just like writing poetry or painting a dog portrait, I think there are many hidden complexities in making a successful visualization. The practice is driven by intuition, logic, empathy, a lot of trial and error... and the occasional grumble of frustration. It must be a non-linear process, going back and forth between stages of iteration and visualization rendering, with the hope that a new version turns out better than a current version. Or that something beautiful emerges from a really tangled, clunky, muddy dataset. And I want to find out if there ever is an end point to this process— or if at some point, I'll just put my foot down and say, “this is the best I could come up with.”
 
+I hope the learnings from this class will remain with me indefinitely. Eventually, I want to join an organization that is committed to building well-being in the community: either through data solutions, creative services or innovative digital products. 
+
 # Portfolio
 Keep scrolling through and join me on my journey to making better vizualizations!
 
