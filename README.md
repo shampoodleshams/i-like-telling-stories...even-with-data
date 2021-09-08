@@ -1,6 +1,6 @@
 Welcome to my portfolio for Telling Stories With Data at CMU! ⭐🌳
 
-Here, you'll find me applying both parts of my brain! Left for logic, rigor, the science behind my storytelling, and right for creativity, intuition, the emotional depth in my visualizations. Thanks for stopping by!
+Here, you'll find me applying both parts of my brain. Left for logic, rigor, the science behind my storytelling, and right for creativity, intuition, the emotional depth in my visualizations. Thanks for stopping by!
 
 # About Me 
 My name is Shambhavi (pronounced Shaaaambh-uh-vee) and I go by she/her pronouns. I'm inching my way towards graduating from CMU with my Master of Information Systems Management, and I'm excited for what might come after! 
