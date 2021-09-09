@@ -30,7 +30,7 @@ Here's an attempt at using the online tool Flourish to visualize data about covi
 
 #### Project 2
 ###### September 9, 2021: Visualizing Government Debt
-[View my visualization](/dataviz2) of the government debt-to-GDP ratio of various countries in the OECD. 
+[View my visualization](/dataviz2.md) of the government debt-to-GDP ratio of various countries in the OECD. 
 
 ### Sketching Exercises
 [to be added along the way]
