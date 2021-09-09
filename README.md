@@ -23,14 +23,12 @@ Keep scrolling through and join me on my journey to making better vizualizations
 
 ### Data Visualizations
 
-
-#### 1.
+#### Project 1
 ###### September 7, 2021: Redesign Exercise
 Here's an attempt at using the online tool Flourish to visualize data about covid cases in King County between February 28 and April 12:
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205616"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-#### 2.
+#### Project 2
 ###### September 9, 2021: Visualizing Government Debt
 [View my visualization](/dataviz2.md) of the government debt-to-GDP ratio of various countries in the OECD. 
 
