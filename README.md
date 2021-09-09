@@ -22,11 +22,15 @@ I hope the learnings from this class remain with me indefinitely. Eventually, I 
 Keep scrolling through and join me on my journey to making better vizualizations!
 
 ### Data Visualizations
-[to be added along the way]
 
+#### 1.
 ###### September 7, 2021: Redesign Exercise
-Here's an attempt at using the tool Flourish to visualize data related to covid cases in King County between February 28 and April 12:
+Here's an attempt at using the online tool Flourish to visualize data about covid cases in King County between February 28 and April 12:
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205616"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### 2.
+###### September 9, 2021: Visualizing Government Debt
+[View my visualization] of the government debt-to-GDP ratio of various countries in the OECD. 
 
 ### Sketching Exercises
 [to be added along the way]
