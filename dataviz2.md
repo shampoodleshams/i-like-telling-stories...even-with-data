@@ -5,3 +5,6 @@
 
 # Government Debt-to-GDP Ratio between 1995 and 2019
 <div class="flourish-embed flourish-chart" data-src="visualisation/7244075"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Debt-to-GDP Ratio of the Axis Powers between 1995 and 2019
+<div class="flourish-embed flourish-chart" data-src="visualisation/7244491"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
