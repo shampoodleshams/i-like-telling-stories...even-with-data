@@ -9,4 +9,5 @@ This visualization is a grid of line charts that represents the debt-to-GDP rati
 <div class="flourish-embed flourish-chart" data-src="visualisation/7244075"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Debt-to-GDP Ratio of the Axis Powers between 1995 and 2019
+Of the 35 countries whose data was available on OECD's website, I was interested in those that became the Axis Powers during the second world war. Japan, Germany and Italy were the three main nations to sign the Tripartite Pact in September of 1940. Hungary signed the agreement two months later, making it the fourth nation to join the original Axis Powers. Of the four countries, Germany and Hungary had a relatively lower and more stable debt-to-GDP ratio between 1995 and 2019, whereas Japan saw a significant increase in the ratio over time. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7244491"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
