@@ -1,6 +1,6 @@
 # General Government Debt
 ##### Source: [OECD Data](https://data.oecd.org/gga/general-government-debt.htm)
-The following bar chart displays general government debt as a percentage of GDP of 34 OECD countries in 2019. The dataset was obtained from OECD Data, a virtual host for international, government-related data. 
+The following bar chart displays general government debt as a percentage of GDP of 34 OECD countries in 2019. The dataset was obtained from OECD Data, a virtual host for international data about economics, health and education. 
 
 <iframe src="https://data.oecd.org/chart/6sqe" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6sqe" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
