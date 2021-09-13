@@ -25,10 +25,12 @@ A few obvious distinctions between the three types of data visualizations are
 **The Bar Chart**
 
 This visualization displays country data pertaining to just _one_ year: 2019. The data is discrete and able to be studied in parts. That is, no one bar is associated with another bar. However, looking at the bars together may help us understand a country's debt burden relative to other countries in 2019. The ascending order with which the bars are stacked next to each other helps in this regard. The data is precise to the nearest unit percent. While the chart is scaled well enough that the viewer can roughly read a country's debt-to-GDP ratio, it can also be hovered over for an exact percentage. The bars are all colored using the same shade of blue, suggesting that no one OECD country is in focus. Similarly, no country has been deliberately excluded from the chart either. This is unlike the line chart visualization (third) on this page.
+<br>
 
 **The Grid of Line Charts**
 
 The grid of line charts feels like a highy-consummable visualization. To me it is the most intuitive and easy to read of all three visualizations! Its bite-sized graphs stacked neatly next to each other allow for a spontaneous, more general reading of the debt-to-GDP ratio across various countries, and emphasize their _trends_ rather than their specific _numbers_. Because the visualization accounts for the years 1995 through 2019, the data can be read continuously. The sparklines thus seem like a fitting choice to imply movement (up-vs-down), stability (flat-vs-steep), and expected continuation in the future (end dots). Unlike the bar chart, this visualization has a smaller visual precision because of its tighter scale. However, the viewer can still hover over the lines to extract precise numbers. Like the bar chart, the dark green lines are consistent across each country, giving them equal precedence in the visualization.
+<br>
 
 **The Combo Line Chart**
 
