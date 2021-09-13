@@ -16,11 +16,11 @@ Of the four countries, Germany and Hungary had a relatively lower and more stabl
 
 # Reflections
 A few obvious distinctions between the three types of data visualizations are
-(i) Use of time
-(ii) Data continuity
-(iii) Data precision
-(iv) Countries selected
-(v) Color adoption 
+Use of time
+Data continuity
+<ul> Data precision
+<ul> Countries selected
+<ul> Color adoption 
 
 **The Bar Chart**
 This visualization displays country data pertaining to just _one_ year: 2019. The data is discrete and able to be studied in parts. That is, no one bar is associated with another bar. However, looking at the bars together may help us understand a country's debt burden relative to other countries in 2019. The ascending order with which the bars are stacked next to each other helps in this regard. The data is precise to the nearest unit percent. While the chart is scaled well enough that the viewer can roughly read a country's debt-to-GDP ratio, it can also be hovered over for an exact percentage. The bars are all colored using the same shade of blue, suggesting that no one OECD country is in focus. Similarly, no country has been deliberately excluded from the chart either. This is unlike the line chart visualization (third) on this page.
