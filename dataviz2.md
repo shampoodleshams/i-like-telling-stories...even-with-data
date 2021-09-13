@@ -15,6 +15,9 @@ Of the four countries, Germany and Hungary had a relatively lower and more stabl
 <div class="flourish-embed flourish-chart" data-src="visualisation/7244491"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Reflections
+The three visualizations were modified from data pulled from the [OECD Data](https://data.oecd.org/gga/general-government-debt.htm) website. The importance of understanding any government's debt-to-GDP ratio is highlighted in this explanation on the website: "It is a key indicator for the sustainability of government finance. Changes in government debt over time primarily reflect the impact of past government deficits." The website provided an immersive experience in learning about this ratio through its interactive screens, sliders and choice of countries. After digging into the data a little bit, I produced three key visualizations.
+<br>
+
 A few obvious distinctions between the three types of data visualizations are
 1. Use of time
 2. Data continuity
