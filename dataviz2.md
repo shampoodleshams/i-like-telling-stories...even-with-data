@@ -15,4 +15,20 @@ Of the four countries, Germany and Hungary had a relatively lower and more stabl
 <div class="flourish-embed flourish-chart" data-src="visualisation/7244491"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Reflections
+A few obvious distinctions between the three types of data visualizations are
+(i) Use of time
+(ii) Data continuity
+(iii) Data precision
+(iv) Countries selected
+(v) Color adoption 
 
+**The Bar Chart**
+This visualization displays country data pertaining to just _one_ year: 2019. The data is discrete and able to be studied in parts. That is, no one bar is associated with another bar. However, looking at the bars together may help us understand a country's debt burden relative to other countries in 2019. The ascending order with which the bars are stacked next to each other helps in this regard. The data is precise to the nearest unit percent. While the chart is scaled well enough that the viewer can roughly read a country's debt-to-GDP ratio, it can also be hovered over for an exact percentage. The bars are all colored using the same shade of blue, suggesting that no one OECD country is in focus. Similarly, no country has been deliberately excluded from the chart either. This is unlike the line chart visualization (third) on this page.
+
+**The Grid of Line Charts**
+The grid of line charts feels like a highy-consummable visualization. To me it is the most intuitive and easy to read of all three visualizations! Its bite-sized graphs stacked neatly next to each other allow for a spontaneous, more general reading of the debt-to-GDP ratio across various countries, and emphasize their _trends_ rather than their specific _numbers_. Because the visualization accounts for the years 1995 through 2019, the data can be read continuously. The sparklines thus seem like a fitting choice to imply movement (up-vs-down), stability (flat-vs-steep), and expected continuation in the future (end dots). Unlike the bar chart, this visualization has a smaller visual precision because of its tighter scale. However, the viewer can still hover over the lines to extract precise numbers. Like the bar chart, the dark green lines are consistent across each country, giving them equal precedence in the visualization.
+
+**The Combo Line Chart**
+In this visualization, I chose to combine the bar chart's discrete country information and the grid of line charts' continuous time data into one large visualization. Initially, I thought of having all 35 countries be displayed equally, with each line representing a different country's debt-to-GDP ratio over time. However, this caused an overwhelming rainbow effect to emerge. As discussed in class, more than a few colors on a chart makes it impossible for the viewer to retain any relevant information. I then tried to think of whether there was any interesting group within the OECD countries that I could highlight. It's how the Axis Powers from WWII came to mind! I liked the idea instantly, and decided to draw attention to the four Axis Powers from the second world war: Japan, Italy, Germany and Hungary. The data for these countries is far more precise than the other two visualizations, and the more frequent gridlines help maintain it.
+
+My choice of colors for the four countries was extremely personal and based on my synaesthetic sensibilities; Italy is a bright, stark blue, Japan is a reddish-pink, and Germany is a deep yellow-orange. Because Hungary is also an orange for me, I ended up settling on green for it. Just as done in class exercises, I greyed out the other countries so that they wouldn't feel distracting. I'm afraid I am not fully satisfied with the chart. I wanted to get rid of the legend altogether and add line labels to only the Axis countries, but couldn't find away to be selective on the labels. I then tried to keep the legend, but without the non-Axis countries in it. However, if I took those 31 countries out of the legend, they got automatically eliminated the chart as well. I did not like **not** having the grey lines in my chart at all, so settled for the larger, more clunky-looking legend eventually. 
