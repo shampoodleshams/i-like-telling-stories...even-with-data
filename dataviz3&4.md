@@ -20,5 +20,16 @@ After a good, prolonged look at the visualization, I recorded my general thought
 
 *If I could change a few things, I would begin with the colors. They bring out the notorious rainbow effect that we’ve frequently discussed in class. The percentages on the y-axis are also a little confusing; why do the numbers go beyond 300%? That takes a little more thinking, since it isn’t instantly intuitive. A final observation is that the comparisons between the age groups are unevenly distributed, so I would consider normalizing those as well."*
 
+**Critiquing the Critique**
+I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
+
+Something I would add to this evaluation method is “Emotional Appeal.” This is closely related to “Engagement,” but is more spontaneous. For example, some visualizations are instantly pleasing while some can be instantly frustrating. I think these immediate, visceral reactions are useful to record because they capture first impressions… and, often, first impressions really last! 
+
+I might even add a “How Much Time Did It Take For You To Fully Understand The Visualization?” metric. I think people tend to record higher scores under “Intuitiveness” (which captures how easy a visualization is to understand) because it gives them either a greater sense of achievement or a greater sense of leniency. That is, I feel like we are prone to remarking that a graph is easier to understand than it actually is because of an unconscious bias within us to demonstrate we’re:
+(i) smart or 
+(ii) forgiving of smaller flaws as long as the overall message is understood. 
+Essentially, if I were asked whether a graph was intuitive or not, I would likely say yes unless there was a very strong reason to convince me otherwise. Similarly, if this binary question were expanded to a scale from 1 to 10, I would still lean towards numbers beyond 5 because going below that would be equivalent to saying, “no.” Unless there was a strong reason to convince me otherwise, I would most probably rank a graph above average (>5) on intuitiveness. 
+To solve this problem, it might help to reframe the question to “how much time did it take you to fully understand this?” I think we’d get more honest responses because we’re forced to come up with a number of our own. We aren’t just settling for one of the options provided.
+
 ## Final Redesign
 <div class="flourish-embed flourish-chart" data-src="visualisation/7297647"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
