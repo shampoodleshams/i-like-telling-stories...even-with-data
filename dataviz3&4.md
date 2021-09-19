@@ -5,7 +5,7 @@ Pulled from a [study](https://www.statista.com/statistics/253915/favorite-music-
 
 #### The OG Viz
 This is the original visualization that I chose to work on:
-[Original Visualization]
+[Original Visualization](statistic_id253915_favorite-music-genres-in-the-us-2018-by-age.png)
 
 
 
