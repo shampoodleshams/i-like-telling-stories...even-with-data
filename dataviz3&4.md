@@ -20,7 +20,7 @@ After a good, prolonged look at the visualization, I recorded my general thought
 
 *If I could change a few things, I would begin with the colors. They bring out the notorious rainbow effect that we’ve frequently discussed in class. The percentages on the y-axis are also a little confusing; why do the numbers go beyond 300%? That takes a little more thinking, since it isn’t instantly intuitive. A final observation is that the comparisons between the age groups are unevenly distributed, so I would consider normalizing those as well."*
 
-#### Critiquing the Critique
+### Critiquing the Critique
 I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
 
 Something I would add to this evaluation method is “Emotional Appeal.” This is closely related to “Engagement,” but is more spontaneous. For example, some visualizations are instantly pleasing while some can be instantly frustrating. I think these immediate, visceral reactions are useful to record because they capture first impressions… and, often, first impressions really last! 
