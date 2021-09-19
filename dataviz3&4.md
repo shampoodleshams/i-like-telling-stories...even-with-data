@@ -8,7 +8,7 @@ This is the original visualization that I chose to work on:
 ![statistic_id253915_favorite-music-genres-in-the-us-2018-by-age](https://user-images.githubusercontent.com/78868693/133943355-526144bd-5a7e-4e79-9416-c50580bc6328.png)
 
 ## Critiquing Cogently
-After a good, prolonged look at the visualization, I recorded my general thoughts on it:
+After a good, prolonged look at the visualization, I recorded my general thoughts about it:
 
 *"At first glance, the visualization looks interesting.*
 
