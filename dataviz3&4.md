@@ -46,15 +46,18 @@ Then, I used Stephen Few's "Data Visualization Effectiveness Profile" and ranked
 Based on my observations and some of the high-level problems I identified through the critique, I began to brainstorm ideas for my redesign. I approached the problem-solving process using the [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/) technique devised by Dr. Edward de Bono, and developed the following strategy:
 ![IMG_20210919_230213__01](https://user-images.githubusercontent.com/78868693/133953538-559273be-ced2-4c8f-a9d7-8e3fa63aecf0.jpg)
 
-Next, I considered simplifying the original dataset a little bit. I had noticed that the age groups were unevenly distributed, so I merged two age groups (16-19 and 20-24) to produce a new group. I also merged the genres "Rock" and "Classic Rock" together, since I noticed that at least 4 music genres had the word "Rock" in them. <br>
+Next, I considered simplifying the original dataset a little bit. I had noticed that the age groups were unevenly distributed, so I merged two age groups (16-19 and 20-24) to produce a new group. I also merged the genres "Rock" and "Classic Rock" together, since I noticed that at least 4 music genres had the word "Rock" in them. 
+<br>
 ![IMG_20210919_230908__01__01](https://user-images.githubusercontent.com/78868693/133953925-245cfd53-ccfe-489d-ab39-68438142b1fb.jpg)
 
-My first wireframe included two pie chart iterations. The first set of pie charts allows viewers to observe the age distribution within each music genre, while the second set of pie charts allows viewers to observe the most popular music genres within a certain age group. I decided to make the second set because it presents a version of the data that I would enjoy learning about more. (That is, I'd rather more easily learn which genres each age group is listening to the most as opposed to which age groups listen to a particular genre the most). <br>
+My first wireframe included two pie chart iterations. The first set of pie charts allows viewers to observe the age distribution within each music genre, while the second set of pie charts allows viewers to observe the most popular music genres within a certain age group. I decided to make the second set because it presents a version of the data that I would enjoy learning about more. (That is, I'd rather more easily learn which genres each age group is listening to the most as opposed to which age groups listen to a particular genre the most). 
+<br>
 ![IMG_20210919_230937__01](https://user-images.githubusercontent.com/78868693/133954253-11e0a85a-1825-4e30-a4c1-760767843129.jpg)
 
 However, I quickly realized that the pie charts were not intuitive visualizations. The colors felt crowded, and there was no way to compare the "absolute" numbers of listeners by age group. In addition, in both iterations, I faced trouble coming up with distinct colors to separate each pie slice with. 
 
-After considering the problem for another day, I decided to simplify everything and go for a stacked bar chart. This kind of visualization would help me work with a limited number of colors, and let me show numbers _as well as_ proportions! It would also let me reorganize the data to flow from the most popular genre to the least popular genre, which would also ramp up my visualization's aesthetic score! <br>
+After considering the problem for another day, I decided to simplify everything and go for a stacked bar chart. This kind of visualization would help me work with a limited number of colors, and let me show numbers _as well as_ proportions! It would also let me reorganize the data to flow from the most popular genre to the least popular genre, which would also ramp up my visualization's aesthetic score! 
+<br>
 ![WhatsApp Image 2021-09-18 at 17 36 40](https://user-images.githubusercontent.com/78868693/133954638-fb58fb3b-620f-455b-9353-63465c65702f.jpeg)
 
 ...**luckily enough, I went to bed satisfied with my wireframe!**
@@ -63,7 +66,13 @@ After considering the problem for another day, I decided to simplify everything 
 Equipped with my new wireframe, I built my redesign using [Flourish](https://flourish.studio/). I tried to pick colors that wouldn't give an overwhelming "Rainbow Effect", yet still be distinctive enough to attribute to the 6 different age groups. I ended up choosing a gradient that deepens with age (yellow to dark purple), and colored the dominant age group within each genre in red. Funnily, this happened to be the youngest group (individuals aged 16-24) in _every_ genre!
 <div class="flourish-embed flourish-chart" data-src="visualisation/7297647"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Critiquing the Critique
+### Then and Now
+The final side-by-side:
+<br>
+![then and now](https://user-images.githubusercontent.com/78868693/133955555-b66f4984-1ed8-4f10-89ae-b314af21fe61.png)
+
+
+### Appendix: Critiquing the Critique
 I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
 
 Something I would add to this evaluation method is “Emotional Appeal.” This is closely related to “Engagement,” but is more spontaneous. For example, some visualizations are instantly pleasing while some can be instantly frustrating. I think these immediate, visceral reactions are useful to record because they capture first impressions… and, often, first impressions really last! 
