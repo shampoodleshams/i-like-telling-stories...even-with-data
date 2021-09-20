@@ -42,7 +42,7 @@ Then, I used Stephen Few's "Data Visualization Effectiveness Profile" and ranked
 **Engagement.  Does it lead the audience to learn more about the topic?  Does it inspire the audience to talk about the data or share it with others?**
 <br>Rank given: 6
 
-### Working the Wireframes
+## Working the Wireframes
 Based on my observations and some of the high-level problems I identified through the critique, I began to brainstorm ideas for my redesign. I approached the problem-solving process using the [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/) technique devised by Dr. Edward de Bono, and developed the following strategy:
 ![IMG_20210919_230213__01](https://user-images.githubusercontent.com/78868693/133953538-559273be-ced2-4c8f-a9d7-8e3fa63aecf0.jpg)
 
@@ -62,17 +62,29 @@ After considering the problem for another day, I decided to simplify everything 
 
 ...**luckily enough, I went to bed satisfied with my wireframe!**
 
+## Open to Opinions
+Next, I tested my wireframe by sharing it with 3 individuals and asking for their feedback. The individuals were not randomly-picked, but their attributes are varying enough that they represent a randomized sample population. I asked the following questions:
+1. What do you see? Can you explain what's going on?
+3. Can you describe how this visualization makes you feel?
+4. How comfortable are you reading this visualization?
+5. Who do you think is the intended audience for this?
+6. Is there anything you find surprising or confusing?
+7. Is there anything you would change or do differently?
+
+I received the following responses:
+
+
 ## The Redesign
 Equipped with my new wireframe, I built my redesign using [Flourish](https://flourish.studio/). I tried to pick colors that wouldn't give an overwhelming "Rainbow Effect", yet still be distinctive enough to attribute to the 6 different age groups. I ended up choosing a gradient that deepens with age (yellow to dark purple), and colored the dominant age group within each genre in red. Funnily, this happened to be the youngest group (individuals aged 16-24) in _every_ genre!
 <div class="flourish-embed flourish-chart" data-src="visualisation/7297647"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Then and Now
+## Then and Now
 The final side-by-side:
 <br>
 ![then and now](https://user-images.githubusercontent.com/78868693/133955555-b66f4984-1ed8-4f10-89ae-b314af21fe61.png)
 
 
-### Appendix: Critiquing the Critique
+## Appendix: Critiquing the Critique
 I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
 
 Something I would add to this evaluation method is “Emotional Appeal.” This is closely related to “Engagement,” but is more spontaneous. For example, some visualizations are instantly pleasing while some can be instantly frustrating. I think these immediate, visceral reactions are useful to record because they capture first impressions… and, often, first impressions really last! 
