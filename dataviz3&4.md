@@ -46,6 +46,12 @@ Then, I used Stephen Few's "Data Visualization Effectiveness Profile" and ranked
 Based on my observations and some of the high-level problems I identified through the critique, I began to brainstorm ideas for my redesign. I approached the problem-solving process using the [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/) technique devised by Dr. Edward de Bono, and developed the following strategy:
 ![IMG_20210919_230213__01](https://user-images.githubusercontent.com/78868693/133953538-559273be-ced2-4c8f-a9d7-8e3fa63aecf0.jpg)
 
+Next, I considered simplifying the original dataset a little bit. I had noticed that the age groups were unevenly distributed, so I merged two age groups (16-19 and 20-24) to produce a new group. I also merged the genres "Rock" and "Classic Rock" together, since I noticed that at least 4 music genres had the word "Rock" in them. 
+![IMG_20210919_230908__01__01](https://user-images.githubusercontent.com/78868693/133953925-245cfd53-ccfe-489d-ab39-68438142b1fb.jpg)
+
+My first wireframe included two pie chart iterations. The first set of pie charts allows viewers to observe the age distribution within each music genre, while the second set of pie charts allows viewers to observe the most popular music genres within a certain age group. I decided to make the second set because it presents a version of the data that I would enjoy learning about more. (That is, I'd rather more easily learn which genres each age group is listening to the most as opposed to which age groups listen to a particular genre the most). 
+![IMG_20210919_230937__01](https://user-images.githubusercontent.com/78868693/133954253-11e0a85a-1825-4e30-a4c1-760767843129.jpg)
+
 ### Critiquing the Critique
 I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
 
