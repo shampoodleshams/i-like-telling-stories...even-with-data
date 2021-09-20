@@ -71,11 +71,24 @@ Next, I tested my wireframe by sharing it with 3 individuals and asking for thei
 6. Is there anything you find surprising or confusing?
 7. Is there anything you would change or do differently?
 
-I received the following responses:
+Some of the responses I received are captured in this brain-dump:
+![IMG_20210920_000535__01__01](https://user-images.githubusercontent.com/78868693/133956147-f6913298-7ec8-4841-90ef-7f5fb6fdffd4.jpg)
 
+Some feedback, interpretations and suggestions that were repeated more than once were:
+1. Ordering of bars works well
+2. Frequent tick marks not required- even if they were present, only a few would read them
+3. Title is a little windy (too many parts to keep track of: genres, age groups, number of votes, 2018, the U.S.)
+4. The use of conventional, identifiable colors adds to ease of reading
+5. Rock music is popular among all age groups
+6. Rock music should be highlighted
+7. Ages 16-24 listen to the most music overall
+8. Instrumental music is the least liked genre
+9. Could consider flipping axes because vertical data feels more familiar
+10. Legend should be made more prominent since age is very important to this visualization
+11. The audience is likely to include producers, music creators, music lovers, investors and music bloggers.
 
 ## The Redesign
-Equipped with my new wireframe, I built my redesign using [Flourish](https://flourish.studio/). I tried to pick colors that wouldn't give an overwhelming "Rainbow Effect", yet still be distinctive enough to attribute to the 6 different age groups. I ended up choosing a gradient that deepens with age (yellow to dark purple), and colored the dominant age group within each genre in red. Funnily, this happened to be the youngest group (individuals aged 16-24) in _every_ genre!
+Equipped with my new wireframe and suggestions that proved invaluable, I built my redesign using [Flourish](https://flourish.studio/). I tried to pick colors that wouldn't give an overwhelming "Rainbow Effect", yet still be distinctive enough to attribute to the 6 different age groups. I ended up choosing a gradient that deepens with age (yellow to dark purple), and colored the dominant age group within each genre in red. Funnily, this happened to be the youngest group (individuals aged 16-24) in _every_ genre!
 <div class="flourish-embed flourish-chart" data-src="visualisation/7297647"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Then and Now
