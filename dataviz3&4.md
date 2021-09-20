@@ -21,7 +21,7 @@ After a brief study of the visualization, I recorded my general thoughts about i
 *If I could change a few things, I would begin with the colors. They bring out the notorious rainbow effect that we’ve frequently discussed in class. The percentages on the y-axis are also a little confusing; why do the numbers go beyond 300%? That takes a little more thinking, since it isn’t instantly intuitive. A final observation is that the comparisons between the age groups are unevenly distributed, so I would consider normalizing those as well."*
 
 Then, I used Stephen Few's "Data Visualization Effectiveness Profile" and ranked the visualization in the following way:
-**Usefulness.  Is it useful for the intended audience?  Does it communicate valuable information?**
+<br>**Usefulness.  Is it useful for the intended audience?  Does it communicate valuable information?**
 <br>Rank given: 7
 
 **Completeness.  Does the visualization have everything necessary to make it understandable?**
@@ -44,7 +44,7 @@ Then, I used Stephen Few's "Data Visualization Effectiveness Profile" and ranked
 
 ### Working the Wireframes
 Based on my observations and some of the high-level problems I identified through the critique, I began to brainstorm ideas for my redesign. I approached the problem-solving process using the [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/) technique devised by Dr. Edward de Bono, and developed the following strategy:
-
+![IMG_20210919_230213__01](https://user-images.githubusercontent.com/78868693/133953538-559273be-ced2-4c8f-a9d7-8e3fa63aecf0.jpg)
 
 ### Critiquing the Critique
 I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
