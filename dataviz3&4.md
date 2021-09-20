@@ -8,7 +8,7 @@ This is the original visualization that I chose to work on:
 ![statistic_id253915_favorite-music-genres-in-the-us-2018-by-age](https://user-images.githubusercontent.com/78868693/133943355-526144bd-5a7e-4e79-9416-c50580bc6328.png)
 
 ## Critiquing Cogently
-After a good, prolonged look at the visualization, I recorded my general thoughts about it:
+After a brief study of the visualization, I recorded my general thoughts about it: 
 
 *"At first glance, the visualization looks interesting.*
 
@@ -19,6 +19,32 @@ After a good, prolonged look at the visualization, I recorded my general thought
 *There are, however, things that I do like. I like that the visualization is credible and accurate. The study was conducted by Audiencenet and published by Music Business Association. It surveys favorite music genres of 3000 consumers in the United States as of July 2018, sorted by age group. This data is explained well in their provided Excel file, which also offers references and research methodology. This offers pretty good context, though the visualization doesn’t rely on it to be understandable – which is really great. The charts don’t show too much complex information. While this information is presented in a more complex way than needed, at least not a single element feels inscrutable. I also like that the goals of the visualization are clear, and the graph conveys exactly what it aims to. The visualization feels complete, apart from the fact that it does not include an “Other” response, raising the question: is every respondent’s answer represented or were some left out?* 
 
 *If I could change a few things, I would begin with the colors. They bring out the notorious rainbow effect that we’ve frequently discussed in class. The percentages on the y-axis are also a little confusing; why do the numbers go beyond 300%? That takes a little more thinking, since it isn’t instantly intuitive. A final observation is that the comparisons between the age groups are unevenly distributed, so I would consider normalizing those as well."*
+
+Then, I used Stephen Few's "Data Visualization Effectiveness Profile" and ranked the visualization in the following way:
+**Usefulness.  Is it useful for the intended audience?  Does it communicate valuable information?**
+<br>Rank given: 7
+
+**Completeness.  Does the visualization have everything necessary to make it understandable?**
+<br>Rank given: 9
+
+**Perceptibility.  Can the reader understand the information with minimal effort? Is the visualization type appropriate?  Does it use illogical comparisons?**
+<br>Rank given: 5
+
+**Truthfulness.  Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?**
+<br>Rank given: 10
+
+**Intuitiveness.  Is it easy to understand and clearly communicates the information?  If unfamiliar, does it include easy to understand instructions on how to interpret it?**
+<br>Rank given: 5
+
+**Aesthetics.  It is interesting / enjoyable to look at?  Is it a good example of what a beautiful data visualization might look like?  Is it somewhere in the middle - pleasing but otherwise not distracting to look at?**
+<br>Rank given: 3
+
+**Engagement.  Does it lead the audience to learn more about the topic?  Does it inspire the audience to talk about the data or share it with others?**
+<br>Rank given: 6
+
+### Working the Wireframes
+Based on my observations and some of the high-level problems I identified through the critique, I began to brainstorm ideas for my redesign. I approached the problem-solving process using the [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/) technique devised by Dr. Edward de Bono, and developed the following strategy:
+
 
 ### Critiquing the Critique
 I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
