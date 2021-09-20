@@ -54,9 +54,14 @@ My first wireframe included two pie chart iterations. The first set of pie chart
 
 However, I quickly realized that the pie charts were not intuitive visualizations. The colors felt crowded, and there was no way to compare the "absolute" numbers of listeners by age group. In addition, in both iterations, I faced trouble coming up with distinct colors to separate each pie slice with. 
 
-After considering the problem for another day, I decided to simplify everything and go for a stacked bar chart. This kind of visualization would help me work with a limited number of colors, and let me show numbers _as well as_ proportions! It would also let me reorganize the data to flow from the most popular genre to the least popular genre, which would also ramp up my visualization's aesthetic score!
+After considering the problem for another day, I decided to simplify everything and go for a stacked bar chart. This kind of visualization would help me work with a limited number of colors, and let me show numbers _as well as_ proportions! It would also let me reorganize the data to flow from the most popular genre to the least popular genre, which would also ramp up my visualization's aesthetic score! <br>
+![WhatsApp Image 2021-09-18 at 17 36 40](https://user-images.githubusercontent.com/78868693/133954638-fb58fb3b-620f-455b-9353-63465c65702f.jpeg)
 
+...**luckily enough, I went to bed satisfied with my wireframe!**
 
+## The Redesign
+Equipped with my new wireframe, I built my redesign using [Flourish](https://flourish.studio/). I tried to pick colors that wouldn't give an overwhelming "Rainbow Effect", yet still be distinctive enough to attribute to the 6 different age groups. I ended up choosing a gradient that deepens with age (yellow to dark purple), and colored the dominant age group within each genre in red. Funnily, this happened to be the youngest group (individuals aged 16-24) in _every_ genre!
+<div class="flourish-embed flourish-chart" data-src="visualisation/7297647"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Critiquing the Critique
 I really enjoyed Stephen Few's evaluation method. It went beyond the Good Charts method in helping me consider pieces I wouldn’t have thought of otherwise. Completeness and usefulness to the audience are two such components. I wouldn’t have naturally articulated these in my critiques. I also liked that the scale was  from 1-10, and not from 1-5. This pushed me to think more critically about the rankings I picked under each metric. I would also rank the ease of completing this evaluation highly. The questions asked were simple, well-explained and interesting. 
@@ -69,5 +74,4 @@ I might even add a “How Much Time Did It Take For You To Fully Understand The 
 Essentially, if I were asked whether a graph was intuitive or not, I would likely say yes unless there was a very strong reason to convince me otherwise. Similarly, if this binary question were expanded to a scale from 1 to 10, I would still lean towards numbers beyond 5 because going below that would be equivalent to saying, “no.” Unless there was a strong reason to convince me otherwise, I would most probably rank a graph above average (>5) on intuitiveness. 
 To solve this problem, it might help to reframe the question to “how much time did it take you to fully understand this?” I think we’d get more honest responses because we’re forced to come up with a number of our own. We aren’t just settling for one of the options provided.
 
-## Final Redesign
-<div class="flourish-embed flourish-chart" data-src="visualisation/7297647"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
