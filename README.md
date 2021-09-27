@@ -38,4 +38,4 @@ Here's an attempt at using the online tool Flourish to visualize data about covi
 
 #### Project 4
 ###### September 25, 2021: Final Project part I
-[Follow me](/final_project_shambhavi.md) as I develop my idea for my final project.
+[Follow me](/final_project_Shambhavi.md) as I develop my idea for my final project.
