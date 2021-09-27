@@ -49,10 +49,10 @@ After my initial sketches, I built a few more using information from the dataset
 
 ## Devilishly Daunting Data
 <li> My primary data source will be this [IMDB Horror Movie Dataset](https://www.kaggle.com/PromptCloudHQ/imdb-horror-movie-dataset), which I have downloaded as a CSV file.
-  This dataset includes key attributes like: title, genre, release date and country, movie rating, review rating, length, plot, cast, and language.
+  This dataset includes key attributes like: title, genre, release date and country, movie rating, review rating, length, plot, cast, and language. </li>
 
 <li> I will also consider using Rotten Tomatoes' [list](https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/) of top 100 horror movies of all time.
-  This is a compilation of the highest-ranking horror movies by year, adjusted for variation in the number of reviews. 
+  This is a compilation of the highest-ranking horror movies by year, adjusted for variation in the number of reviews. </li>
 
 For establishing initial context, I might consider fetching numbers from credible statistical wesbites or studies. The above data sources will be used primarily for the investigation component of my project. While several attributes provided in the datasets are useful, I foresee identifying additional features (described in Ghoulish Outline) by myself. Along the way, if I come across additional helpful sources, I will reference them in my study where required.
 
