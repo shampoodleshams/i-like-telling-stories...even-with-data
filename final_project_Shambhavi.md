@@ -63,9 +63,10 @@ For establishing background context, I might consider fetching numbers from cred
 3. Sparklines
 4. Pie charts
 5. Simple tables
-6. 
+6. Area charts (along time)
+7. Pictograms
 
 ## Menacing Method and Medium
-I will use Shorthand for the final rendition of my story. I think the single-page view and ease of using it will give my entire story better flow. I hope to use interactive charts, attractive type and font, and rich multimedia content like images, simple transitions or even short videos.
+I will use Shorthand for the final rendition of my story. The single-page view and ease of using it will give my entire story a better flow than something like PowerPoint slides. I hope to use interactive charts, attractive type and font, and rich multimedia content like images, simple transitions or even short videos.
 
 While telling a compelling story with the data, I will also consider writing up a section on limitations. I think this project is inherently biased in the features I choose to highlight, the years and regions I look at, and the assumption that any recommendations I make will hold significant value indefinitely. The scope of my project is also quite wide, but I have simplified it based on the most obvious, quantifiable elements in any horror movie. Therefore, cultural nuances, language, historical significance and artistic liberties of the movie may not be well-recognized. A way to overcome this challenge could be to focus movie selections to only one region (the US) and a specified time period. Finally, this project assumes that, all other things held constant, an improvement in the identified elements for future horror movies might increase their success. However, in the real world, a horror movie's success will be attributed to several other factors as identified in the beginning of this assignment. Common themes and occurrences of any identified elements may also only be correlated with, not a cause of, success. 
