@@ -44,8 +44,10 @@ Here are two of my initial sketches based loosely on the project idea. The first
 #### Creepy Comic-Style Layout
 ![IMG_20210927_175228__01](https://user-images.githubusercontent.com/78868693/134991209-755b3b33-286f-4b1c-98d3-fca157f4d17e.jpg)
 
-After my initial sketches, I built a few more using information from the datasets and project outline:
-
+After my initial sketches, I built a few more guided by the datasets and project outline:
+![IMG_20210927_184907__01](https://user-images.githubusercontent.com/78868693/134995925-42f52d10-509f-4281-b37b-6ddea6eaabab.jpg)
+![IMG_20210927_184926__01](https://user-images.githubusercontent.com/78868693/134995943-3ff2f9eb-2a85-4a08-81c7-d951fa27b0b6.jpg)
+![IMG_20210927_184941__01](https://user-images.githubusercontent.com/78868693/134995965-f85529bc-81f4-4fd2-9492-9c6ca75311c7.jpg)
 
 ## Devilishly Daunting Data
 1. My primary data source will be this [IMDB Horror Movie Dataset](https://www.kaggle.com/PromptCloudHQ/imdb-horror-movie-dataset), which I have downloaded as a CSV file.
