@@ -4,7 +4,7 @@
 ![foggy-545838_1280](https://user-images.githubusercontent.com/78868693/134982483-5dcdb4e9-f797-4fd5-a318-01a3a4a74985.jpg)
 Image source: [Pixabay](https://pixabay.com/photos/foggy-mist-forest-trees-spooky-545838/)
 
-## Outline
+## Ghoulish Outline
 Data trends in the movie industry such as [this one](https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/) suggest that the general positive perception towards horror movies in the past five decades might, on average, be dwindling. This can be attributed to a variety of factors: declining popularity, worsening quality, growing fear tolerance (or diminishing fear tolerance!), structural shift in budgets, biases in movie-recommender engines, fear exposure, ... _the list is endless_. 
 
 Having watched over 150 horror movies from more than 4 continents and of at least 5 different languages, I am determined to see horror be reestablished as a successful genre in the international movie industry. I hope horror movie enthusiasts and new fans alike get to continue enjoying them for years to come. 
@@ -26,7 +26,7 @@ Additionally, features of a horror movie could include quantifiable elements lik
 
 <br> The audience of my project might include horror movie creators and critics. They could say something like, "As a horror movie creator, I want to know what truly works for my audience so that I can create top-grossing, widely-reviewed, impactful horror movies while I'm alive," and, through my story, be able to identify specific fear triggers, movie attributes and psychological elements to adopt in their next feature films.
 
-## Project Structure
+## Spooky Project Structure
 1. A brief background of horror movies 
 2. The changing success of horror movies over the years
 3. Consequences of creating/watching/curating poor horror movies - loss in monetary value, interest, time, energy, appreciation; rise in gimmicks, tropes, stereotypes
@@ -35,18 +35,17 @@ Additionally, features of a horror movie could include quantifiable elements lik
 6. Establishment of guidelines or recommendations as a CTA (call-to-action) for movie makers
 7. Optimism for the future, crushing uncertainty
 
-## Initial Sketches
+## Spine-chilling Sketches
 We've begun to explore how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
 
-## The Data
-It's important that you identify your primary data source.  To be successful in the final project, you'll need to get a copy of the data you'll need for your final project, or recreate it based on various sources.  Make sure in all cases to record your sources and cite these data sources appropriately. 
+## Devilishly Daunting Data
+<li> My primary data source will be this [IMDB Horror Movie Dataset](https://www.kaggle.com/PromptCloudHQ/imdb-horror-movie-dataset), which I have downloaded as a CSV file.
+  This dataset includes key attributes like: title, genre, release date and country, movie rating, review rating, length, plot, cast, and language.
 
-At a minimum, you should include the following: 
+<li> I will also consider using Rotten Tomatoes' [list](https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/) of top 100 horror movies of all time.
+  This is a compilation of the highest-ranking horror movies by year, adjusted for variation in the number of reviews. 
 
-<li> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-<li> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+For establishing initial context, I might consider fetching numbers from credible statistical wesbites or studies. The above data sources will be used primarily for the investigation component of my project. While several attributes provided in the datasets are useful, I foresee identifying additional features (described in Ghoulish Outline) by myself. Along the way, if I come across additional helpful sources, I will reference them in my study where required. 
 
-## Method and Medium
+## Menacing Method and Medium
 In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), or you may propose doing something else entirely (AR / VR, mixed media, etc.).  If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first.  I'd like all final projects to be documented digitally, so if you create something using physical materials  or more immersive, you may need to also create a video recording of your story. 
-
-Finally, for your final project presentation I'd discourage an over-reliance on PowerPoint slides. If you need to use a few slides to frame the context of your final project presentation (a pitch deck) that's ok - but your Powerpoint slides alone are not sufficient in meeting the requirements of the final project deliverable.  Your final project deliverable must be an interactive, stand-alone project (e.g. something you've created using Shorthand or another platform) that won't require a future employer clicking through yet another PowerPoint deck. 
