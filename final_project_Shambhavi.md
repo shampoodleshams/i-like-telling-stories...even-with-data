@@ -54,7 +54,7 @@ After my initial sketches, I built a few more using information from the dataset
 <li> I will also consider using Rotten Tomatoes' [list](https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/) of top 100 horror movies of all time.
   This is a compilation of the highest-ranking horror movies by year, adjusted for variation in the number of reviews. 
 
-For establishing initial context, I might consider fetching numbers from credible statistical wesbites or studies. The above data sources will be used primarily for the investigation component of my project. While several attributes provided in the datasets are useful, I foresee identifying additional features (described in Ghoulish Outline) by myself. Along the way, if I come across additional helpful sources, I will reference them in my study where required. </li>
+For establishing initial context, I might consider fetching numbers from credible statistical wesbites or studies. The above data sources will be used primarily for the investigation component of my project. While several attributes provided in the datasets are useful, I foresee identifying additional features (described in Ghoulish Outline) by myself. Along the way, if I come across additional helpful sources, I will reference them in my study where required.
 
 ## Menacing Method and Medium
 I will use Shorthand for the final rendition of my story. I think the ease of moving along the page will give my story better flow. I hope to use interactive charts, aesthetically-appealing type and font, and rich multimedia content for my viewers. These might include images, very simple transition movements and short video.
