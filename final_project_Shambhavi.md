@@ -1,7 +1,7 @@
 # The Hopeful Healing of Horror 
 # _Final Project - Part I_
 
-![p3EjClFy20jjT0u06dzBs4lvvhi](https://user-images.githubusercontent.com/78868693/134981900-1d98a3ef-54cd-4e88-b44a-04c13bcf7ce1.jpg)
+![foggy-545838_1280](https://user-images.githubusercontent.com/78868693/134982483-5dcdb4e9-f797-4fd5-a318-01a3a4a74985.jpg)
 
 ## Outline
 Data trends in the movie industry such as [this one](https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/) suggest that the general perception towards horror movies in the past five decades might, on average, be dwindling. This can be attributed to a variety of factors: declining popularity, worsening quality, growing fear tolerance (or diminishing fear tolerance!), structural shift in budgets, biases in movie-recommender engines, fear exposure, ... _the list is endless_. 
