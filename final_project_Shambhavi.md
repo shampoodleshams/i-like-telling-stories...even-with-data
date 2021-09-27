@@ -2,6 +2,7 @@
 # _Final Project - Part I_
 
 ![foggy-545838_1280](https://user-images.githubusercontent.com/78868693/134982483-5dcdb4e9-f797-4fd5-a318-01a3a4a74985.jpg)
+Source: [Pixabay](https://pixabay.com/photos/foggy-mist-forest-trees-spooky-545838/)
 
 ## Outline
 Data trends in the movie industry such as [this one](https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/) suggest that the general perception towards horror movies in the past five decades might, on average, be dwindling. This can be attributed to a variety of factors: declining popularity, worsening quality, growing fear tolerance (or diminishing fear tolerance!), structural shift in budgets, biases in movie-recommender engines, fear exposure, ... _the list is endless_. 
