@@ -56,7 +56,14 @@ After my initial sketches, I built a few more guided by the datasets and project
 2. I will also consider using Rotten Tomatoes' [list](https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/) of top 100 horror movies of all time.
   This is a compilation of the highest-ranking horror movies by year, adjusted for variation in the number of reviews. 
 
-For establishing background context, I might consider fetching numbers from credible statistical wesbites or studies. The above data sources will be used primarily for the investigation component of my project. While several attributes provided in the datasets are useful, I foresee identifying additional features myself. These include components listed under Outrageously-Ghoulish Outline and Spine-chilling Sketches. Along the way, if I come across additional helpful sources, I will reference them in my project where required.
+For establishing background context, I might consider fetching numbers from credible statistical wesbites or studies. The above data sources will be used primarily for the investigation component of my project. While several attributes provided in the datasets are useful, I foresee identifying additional features myself. These include components listed under Outrageously-Ghoulish Outline and Spine-chilling Sketches. Along the way, if I come across additional helpful sources, I will reference them in my project where required. As shown in my sketches, effective data visualizations for exploratory data analysis could include:
+
+1. Bar charts
+2. Bubble charts
+3. Sparklines
+4. Pie charts
+5. Simple tables
+6. 
 
 ## Menacing Method and Medium
 I will use Shorthand for the final rendition of my story. I think the single-page view and ease of using it will give my entire story better flow. I hope to use interactive charts, attractive type and font, and rich multimedia content like images, simple transitions or even short videos.
