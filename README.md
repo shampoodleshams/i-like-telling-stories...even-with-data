@@ -36,12 +36,6 @@ Here's an attempt at using the online tool Flourish to visualize data about covi
 ###### September 19, 2021: Critique By Design
 [Trace my steps](/dataviz3&4.md) through a wireframing project and view my redesign.
 
-### Sketching Exercises
-[to be added along the way]
-
-### Final Project
-[to be added along the way]
-
-### Reflections
-[to be added along the way]
-
+#### Project 4
+###### September 25, 2021: Final Project part I
+[Follow me](/dataviz3&4.md) as I develop my idea for my final project.
