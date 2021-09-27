@@ -44,7 +44,7 @@ Here are two of my initial sketches based loosely on the project idea. The first
 #### Creepy Comic-Style Layout
 ![IMG_20210927_175228__01](https://user-images.githubusercontent.com/78868693/134991209-755b3b33-286f-4b1c-98d3-fca157f4d17e.jpg)
 
-After my initial sketches, I built a few more using information from the datasets and guided my project outline:
+After my initial sketches, I built a few more using information from the datasets and project outline:
 
 
 ## Devilishly Daunting Data
