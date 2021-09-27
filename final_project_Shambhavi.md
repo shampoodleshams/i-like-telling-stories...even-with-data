@@ -24,7 +24,7 @@ Additionally, features of a horror movie could include quantifiable elements lik
 <li> Central use of gore, weapons, trauma-inducing tools to incite horror
 <li> Central use of psychological fears/phobias (agoraphobia, arachnophobia, thalassophobia) to incite horror </li>
 
-The audience of my project might include horror movie creators and critics. They could say something like, "As a horror movie creator, I want to know what truly works for my audience so that I can create top-grossing, widely-reviewed, impactful horror movies while I'm alive," and, through my story, be able to identify specific fear triggers, movie attributes and psychological elements to adopt in their next feature films.
+<br> The audience of my project might include horror movie creators and critics. They could say something like, "As a horror movie creator, I want to know what truly works for my audience so that I can create top-grossing, widely-reviewed, impactful horror movies while I'm alive," and, through my story, be able to identify specific fear triggers, movie attributes and psychological elements to adopt in their next feature films.
 
 ## Project Structure
 1. A brief background of horror movies 
