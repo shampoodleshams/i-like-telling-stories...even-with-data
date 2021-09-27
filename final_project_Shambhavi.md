@@ -34,10 +34,10 @@ Additionally, features of a horror movie could include quantifiable elements lik
 5. Insights and interesting analytics
 6. Establishment of guidelines or recommendations as a CTA (call-to-action) for movie makers
 7. Optimism for the future, crushing uncertainty
-<br>
+
 ## Spine-chilling Sketches
 Here are two of my initial sketches based loosely on the project idea. The first is a story arc, and the second is a comic-style layout of my story:
-<br>
+
 #### Sinister Story Arc
 ![IMG_20210927_175056__01](https://user-images.githubusercontent.com/78868693/134991090-dbe7df81-4977-4e95-a6a1-e18625d4dc59.jpg)
 
