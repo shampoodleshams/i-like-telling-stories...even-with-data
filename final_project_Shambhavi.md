@@ -1,7 +1,28 @@
-# Final Project, Part I
+# The Hopeful Healing of Horror 
+#### Final Project - Part I
 
 ## Outline
-<li> A high-level summary of your project. This should be a sentence or two that describes what you're interested in showing with your final project.
+Data trends in the movie industry such as [this one](https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/) suggest that the general perception towards horror movies in the past five decades might, on average, be dwindling. This can be attributed to a variety of factors: declining popularity, worsening quality, growing fear tolerance (or diminishing fear tolerance!), structural shift in budgets, biases in movie-recommender engines, fear exposure, ... _the list is endless_. 
+
+Having watched over 150 horror movies from more than 4 continents and of at least 5 different languages, I am determined to see horror be reestablished as a successful genre in the international movie industry. I hope horror movie enthusiasts and new fans alike get to continue enjoying them for years to come. 
+
+In this project, I will identify features of a horror movie that make it successsful. Because subjectively answering this project goal could make it vulnerable to ambiguities and complexity, I will define "success" more quantitatively. In particular, I will define horror movie success using the following potential metrics:
+
+<li> Movie ratings that have been measured and recorded in a regularized way over the years (as a percentage)
+<li> Box office collections (in US dollars, adjusting for inflation)
+<li> Volume of international viewership 
+  
+Additionally, features of a horror movie could include quantifiable elements like:
+<li> Length and pace
+<li> Use and frequency of jump scares
+<li> Premise (described in its synopsis)
+<li> Age range of actors/characters (young kids? Babies? Old people? Family?)
+<li> Central use of creatures, animals, insects to incite horror
+<li> Central use of gore, weapons, trauma-inducing tools
+<li> Central use of psychological fears/phobias (agoraphobia, arachnophobia, thalassophobia) </li>
+
+## Project Structure
+
 <li> A project structure that outlines the major elements of your story. Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 
 ## Initial Sketches
