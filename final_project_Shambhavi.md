@@ -5,7 +5,7 @@
 Image source: [Pixabay](https://pixabay.com/photos/foggy-mist-forest-trees-spooky-545838/)
 
 ## Outline
-Data trends in the movie industry such as [this one](https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/) suggest that the general perception towards horror movies in the past five decades might, on average, be dwindling. This can be attributed to a variety of factors: declining popularity, worsening quality, growing fear tolerance (or diminishing fear tolerance!), structural shift in budgets, biases in movie-recommender engines, fear exposure, ... _the list is endless_. 
+Data trends in the movie industry such as [this one](https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/) suggest that the general positive perception towards horror movies in the past five decades might, on average, be dwindling. This can be attributed to a variety of factors: declining popularity, worsening quality, growing fear tolerance (or diminishing fear tolerance!), structural shift in budgets, biases in movie-recommender engines, fear exposure, ... _the list is endless_. 
 
 Having watched over 150 horror movies from more than 4 continents and of at least 5 different languages, I am determined to see horror be reestablished as a successful genre in the international movie industry. I hope horror movie enthusiasts and new fans alike get to continue enjoying them for years to come. 
 
