@@ -1,7 +1,11 @@
 # The Healing of Horror 
 # _Final Project - Part II_
+![pumpkins-gdb531c807_1920](https://user-images.githubusercontent.com/78868693/136119414-759ed93b-c97d-4f5b-9f47-882bbe2915d0.jpg)
+Source: [Pixabay](https://pixabay.com/photos/pumpkins-trees-meadow-halloween-5675502/)
 
-## Witchy Wireframes and Spine-tingling Storyboards
+After completing Part I of my project, I developed a more refined storyboard. This 
+
+## Witchy Wireframes and Spine-tingling Storyboard
 
 ## Malicious Moodboards
 #### Version 1
