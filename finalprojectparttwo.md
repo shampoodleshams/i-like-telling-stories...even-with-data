@@ -1,4 +1,5 @@
-# Final Project Part Two
+# The Healing of Horror 
+# _Final Project - Part II_
 
 ## Witchy Wireframes and Spine-tingling Storyboards
 
