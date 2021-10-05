@@ -42,4 +42,4 @@ Here's an attempt at using the online tool Flourish to visualize data about covi
 
 #### Project 5
 ###### October 5, 2021: Final Project part II
-[Find out more](/final_project_Shambhavi.md) about my storyboarding process for my final project.
+[Find out more](/finalprojectparttwo.md) about my storyboarding process for my final project.
