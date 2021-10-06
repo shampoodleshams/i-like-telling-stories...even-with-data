@@ -17,7 +17,15 @@ After completing Part I of my project, I developed a more refined storyboard to 
 ## Nerve-racking New Reflections
 When I more carefully observed the datasets I had collected from my IMDb and Rotten Tomatoes sources, I realized that my story would reach its best potential if I also included relevant insights from well-researched qualitative stories related to horror psychology, phobias and cultural fears. 
 
-A classmate from my critique team was very generous in sharing [this](https://www.indiewire.com/2021/08/candyman-why-horror-movies-are-the-future-1234660349/) article that adopts an optimistic view towards horror in cinema. She also shared how, through [this](https://screenrant.com/blumhouse-horror-movie-changes-small-budget-after-coronavirus/) article, major horror movie production companies may be planning to incorporate experimental, low-budget models in creating successful horror movies during the pandemic. These stories, while not comprehensively developed, have made me want to learn more about current sentiments of reviewers and horror movie creators. I think these pieces will help me better tell _my_ story.
+Malcolm Turvey, professor of Film Studies at Tufts University who has frequently taught the course "The Horror Film", digs into questions about why some people like horror movies. He [states](https://now.tufts.edu/articles/why-do-we-horror-movies), "“Horror is a genre that people tend to look down upon and not take very seriously. It has a reputation of being a low, somewhat trashy, titillating genre that appeals to our basest instincts. But it’s a wonderful, popular art form through which very complex ideas and creative techniques can manifest themselves—and if you can get past that very cliched view, you realize there’s an embarrassment of riches in the genre.”
+
+Even in just those few words, he captures two very compelling ideas about horror as a genre: 
+1. The emotion it teases out, fear, is one of our **[six basic emotions]**(https://www.psychologytoday.com/us/blog/hide-and-seek/201601/what-are-basic-emotions)
+2. It allows movie makers to exploit their creative liberties and explore new possibilities with relatively lower risk
+
+While these may seem like rather simple ideas, they are important to my project. They suggest that fear is innate, universally understood and a primary emotion. They also suggest that oppportunities to experiment within the genre, like using symbolism and testing responses across time or culture, are aplenty.
+
+Additionally, a classmate from my critique team was very generous in sharing [this](https://www.indiewire.com/2021/08/candyman-why-horror-movies-are-the-future-1234660349/) article that adopts an optimistic view towards horror in cinema. She also shared how, through [this](https://screenrant.com/blumhouse-horror-movie-changes-small-budget-after-coronavirus/) article, major horror movie production companies may be planning to incorporate experimental, low-budget models in creating successful horror movies during the pandemic. These stories, while not comprehensively developed, have made me want to learn more about current sentiments of reviewers and horror movie creators. I think these pieces will help me better tell _my_ story.
 
 ## Witchy Wireframes and a Spine-tingling Storyboard
 
