@@ -20,7 +20,7 @@ When I more carefully observed the datasets I had collected from my IMDb and Rot
 Malcolm Turvey, professor of Film Studies at Tufts University who has frequently taught the course "The Horror Film", digs into questions about why some people like horror movies. He [states](https://now.tufts.edu/articles/why-do-we-horror-movies), "“Horror is a genre that people tend to look down upon and not take very seriously. It has a reputation of being a low, somewhat trashy, titillating genre that appeals to our basest instincts. But it’s a wonderful, popular art form through which very complex ideas and creative techniques can manifest themselves—and if you can get past that very cliched view, you realize there’s an embarrassment of riches in the genre.”
 
 Even in just those few words, he captures two very compelling ideas about horror as a genre: 
-1. The emotion it teases out, fear, is one of our **[six basic emotions]**(https://www.psychologytoday.com/us/blog/hide-and-seek/201601/what-are-basic-emotions)
+1. The emotion it teases out, fear, is one of our [six basic emotions](https://www.psychologytoday.com/us/blog/hide-and-seek/201601/what-are-basic-emotions)
 2. It allows movie makers to exploit their creative liberties and explore new possibilities with relatively lower risk
 
 While these may seem like rather simple ideas, they are important to my project. They suggest that fear is innate, universally understood and a primary emotion. They also suggest that oppportunities to experiment within the genre, like using symbolism and testing responses across time or culture, are aplenty.
