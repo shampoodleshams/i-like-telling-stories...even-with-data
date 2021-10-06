@@ -21,9 +21,9 @@ Malcolm Turvey, professor of Film Studies at Tufts University who has frequently
 
 Even in just those few words, he captures two very compelling ideas about horror as a genre: 
 1. The emotion it teases out, fear, is one of our [six basic emotions](https://www.psychologytoday.com/us/blog/hide-and-seek/201601/what-are-basic-emotions)
-2. It allows movie makers to exploit their creative liberties and explore new possibilities with relatively lower risk
+2. It allows movie makers to seriously exploit their creative liberties and explore new possibilities 
 
-While these may seem like rather simple ideas, they are important to my project. They suggest that fear is innate, universally understood and a primary emotion. They also suggest that oppportunities to experiment within the genre, like using symbolism and testing responses across time or culture, are aplenty.
+While these may seem like rather simple ideas, they are important to my project. They suggest that fear is innate, universally understood and a primary emotion. They also suggest that oppportunities to experiment within the genre, like using symbolism and testing responses across time or culture, are aplenty. More importantly, perhaps these can be implemented in horror movies with relatively lower risk than in movies based in realism, science or history.
 
 Additionally, a classmate from my critique team was very generous in sharing [this](https://www.indiewire.com/2021/08/candyman-why-horror-movies-are-the-future-1234660349/) article that adopts an optimistic view towards horror in cinema. She also shared how, through [this](https://screenrant.com/blumhouse-horror-movie-changes-small-budget-after-coronavirus/) article, major horror movie production companies may be planning to incorporate experimental, low-budget models in creating successful horror movies during the pandemic. These stories, while not comprehensively developed, have made me want to learn more about current sentiments of reviewers and horror movie creators. I think these pieces will help me better tell _my_ story.
 
