@@ -73,7 +73,6 @@ In this one, I used more organic elements, colors and innate fears (such as comm
 <img width="597" alt="moodboard 2" src="https://user-images.githubusercontent.com/78868693/136116124-b1973130-1de1-42d7-85e8-055366170ad6.png">
 In this one, I used more man-made objects, old-school Japanese horror elements and unnatural tones (shades of uncomfortable pink, grey, and dark shadows).
 
-<br>
 I set up an Instagram poll to find out which one people generally liked more, and the results are below:
 ![Screenshot_20211005-230147__01__01](https://user-images.githubusercontent.com/78868693/136134133-a31aa549-9f86-4280-8a59-e46bc7962ce6.jpg)
 
