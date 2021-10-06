@@ -34,11 +34,26 @@ My final project and presentation will flow in the following way:
 View my storyboard below:
 ![IMG_20211005_212853__01__01](https://user-images.githubusercontent.com/78868693/136126441-108d9969-e186-4e47-af5d-58a4e09f28eb.jpg)
 
+## Unearthly User Research and Intimidating Interviews
+You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
+
+Your user research protocol should clearly identify the following: 
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
 
 ## Malicious Moodboards
+Here are two versions of a potential moodboard for my final story:
+
 #### Vile Version 1
 <img width="601" alt="moodboard 1" src="https://user-images.githubusercontent.com/78868693/136116182-98cef609-b18d-4a52-90ba-a67aa51184ff.png">
+In this one, I used more organic elements, colors and innate fears (such as the fear of deep waters, insects, dark forests and 
 
 #### Vicious Version 2
 <img width="597" alt="moodboard 2" src="https://user-images.githubusercontent.com/78868693/136116124-b1973130-1de1-42d7-85e8-055366170ad6.png">
+
+Based on user feedback, the first one is more successful. I set up an Instagram poll to find out which one people generally liked more, and the results are below:
 
