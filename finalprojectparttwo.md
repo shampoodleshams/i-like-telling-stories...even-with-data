@@ -97,10 +97,12 @@ Here are two moodboard versions for my final story:
 
 #### Vile Version 1
 <img width="601" alt="moodboard 1" src="https://user-images.githubusercontent.com/78868693/136116182-98cef609-b18d-4a52-90ba-a67aa51184ff.png">
+<br>
 In this one, I used more organic elements, colors and innate fears (such as common fears of deep water, insects, dark forests, masked faces and megalophobic structures) 
 
 #### Vicious Version 2
 <img width="597" alt="moodboard 2" src="https://user-images.githubusercontent.com/78868693/136116124-b1973130-1de1-42d7-85e8-055366170ad6.png">
+<br>
 In this one, I used more man-made objects, old-school Japanese horror elements and unnatural tones (shades of uncomfortable pink, grey, and dark shadows).
 
 I set up an Instagram poll to find out which one people generally liked more, and the results are below:
