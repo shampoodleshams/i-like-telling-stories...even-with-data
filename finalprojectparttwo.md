@@ -96,15 +96,18 @@ When developing my moodboards, I tried to go for colors that strayed away from t
 Here are two moodboard versions for my final story:
 
 #### Vile Version 1
-In this one, I used more organic elements, colors and innate fears (such as common fears of deep water, insects, dark forests, masked faces and megalophobic structures) 
 <img width="601" alt="moodboard 1" src="https://user-images.githubusercontent.com/78868693/136116182-98cef609-b18d-4a52-90ba-a67aa51184ff.png">
+<br>
+In this one, I used more organic elements, colors and innate fears (such as common fears of deep water, insects, dark forests, masked faces and megalophobic structures) 
 
 #### Vicious Version 2
-In this one, I used more man-made objects, old-school Japanese horror elements and unnatural tones (shades of uncomfortable pink, grey, and dark shadows).
 <img width="597" alt="moodboard 2" src="https://user-images.githubusercontent.com/78868693/136116124-b1973130-1de1-42d7-85e8-055366170ad6.png">
+<br>
+In this one, I used more man-made objects, old-school Japanese horror elements and unnatural tones (shades of uncomfortable pink, grey, and dark shadows).
 
 #### The Dreadful Decision
 I set up an Instagram poll to find out which one people generally liked more, and the results are below:
+
 ![Screenshot_20211005-230147__01__01](https://user-images.githubusercontent.com/78868693/136134133-a31aa549-9f86-4280-8a59-e46bc7962ce6.jpg)
 
 However, based on my in-person interactions with my peers in class and a video call with two family members, the first one won by a larger margin. I will consider working with a color palette and visual scheme that more closely follows the first moodboard!
