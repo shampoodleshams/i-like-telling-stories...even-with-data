@@ -28,6 +28,8 @@ While these may seem like rather simple ideas, they are important to my project.
 Additionally, a classmate from my critique team was very generous in sharing [this](https://www.indiewire.com/2021/08/candyman-why-horror-movies-are-the-future-1234660349/) article that adopts an optimistic view towards horror in cinema. She also shared how, through [this](https://screenrant.com/blumhouse-horror-movie-changes-small-budget-after-coronavirus/) article, major horror movie production companies may be planning to incorporate experimental, low-budget models in creating successful horror movies during the pandemic. These stories, while not comprehensively developed, have made me want to learn more about current sentiments of reviewers and horror movie creators. I think these pieces will help me better tell _my_ story.
 
 ## Witchy Wireframes and a Spine-tingling Storyboard
+My final project and presentation will flow in the following way:
+![IMG_20211005_211534__01](https://user-images.githubusercontent.com/78868693/136125519-0c2ad3aa-91d4-41a5-a18a-9c7a251c9a73.jpg)
 
 ## Malicious Moodboards
 #### Vile Version 1
