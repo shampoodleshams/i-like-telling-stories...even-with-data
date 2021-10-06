@@ -43,15 +43,22 @@ View my storyboard below:
 ![IMG_20211005_225006__01__01](https://user-images.githubusercontent.com/78868693/136133236-82ac62c3-67e3-4104-8ad6-021b98d23b0c.jpg)
 
 ## Unearthly User Research and Intimidating Interviews
-You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
+### User Research Protocol
+a. Target audiences: horror movie creators, movie creators and horror movie buffs
 
-Your user research protocol should clearly identify the following: 
+b. Approach: peers and family members who may not be randomly-selected, but will still represent a random distribution of individuals who may like or dislike, know or not know about horror movies
 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+c. Interview script: 
+1. On a scale of 1-10, how interested are you in horror movies? (before showing any visualizations)
+2. Who do you think this research is intended for?
+3. Which chart did you find the most interesting and why?
+4. Can you identify 3 things that you would like more clarity on?
+5. Is there anything else you would love to have seen but did not see here?
+6. On a scale of 1-10 now, how interested are you in horror movies?
+
+d. Findings
+
+e. Changes
 
 ## Malicious Moodboards
 When developing my moodboards, I tried to go for colors that strayed away from typical horror-movie-poster colors like black, red, harsh navy blues and dark greens. I did this because I felt like non-horror movie enthusiasts, or worse, people who actively dislike horror movies, shouldn't need an extra reason to associate my project with what they've been conditioned to feel through conventional horror movie posters. I thus chose to use my two favorite combinations of colors instead: blue and yellow, and pink and grey.
@@ -68,5 +75,6 @@ In this one, I used more man-made objects, old-school Japanese horror elements a
 
 <br>
 I set up an Instagram poll to find out which one people generally liked more, and the results are below:
+![Screenshot_20211005-230147__01__01](https://user-images.githubusercontent.com/78868693/136134133-a31aa549-9f86-4280-8a59-e46bc7962ce6.jpg)
 
-Therefore, based on user feedback, the first one is more successful. 
+However, based on my in-person interactions with my peers in class and a video call with two family members, the first one won by a larger margin. I will consider working with a color palette and visual scheme that more closely follows the first moodboard!
