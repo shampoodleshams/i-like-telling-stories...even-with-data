@@ -87,6 +87,7 @@ d. Findings
 7. 0
 
 e. Changes
+<br>
 In hindsight, I realized I needed to include ideas that were a lot more measurable in the recommendations towards the end. The statistics seemed to work for my CMU peer, who thought it would be beneficial to provide credibility to the recommendations. I will also consider adding more substantiation about the years looked at, the countries from which these movies originated, the streaming platform they're available on, the original language of the movies, and the languages the movies are available in. Most of the wireframes for the charts seemed quite intuitive to the three users. I might consider playing around with the colors a little more, and refining the language of the story to make it concise, interesting and actionable.
 
 ## Malicious Moodboards
