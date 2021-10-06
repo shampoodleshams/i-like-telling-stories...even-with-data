@@ -42,21 +42,35 @@ View my storyboard below:
 ![IMG_20211005_224953__01](https://user-images.githubusercontent.com/78868693/136133219-e8e00618-9cd9-4db1-ad65-05185aa29ee6.jpg)
 ![IMG_20211005_225006__01__01](https://user-images.githubusercontent.com/78868693/136133236-82ac62c3-67e3-4104-8ad6-021b98d23b0c.jpg)
 
-## Unearthly User Research and Intimidating Interviews
-### User Research Protocol
+## Unearthly User Research Protocol and Intimidating Interviews
 a. Target audiences: horror movie creators, movie creators and horror movie buffs
 
-b. Approach: peers and family members who may not be randomly-selected, but will still represent a random distribution of individuals who may like or dislike, know or not know about horror movies
+b. Approach: peers and family members who may not be randomly-selected, but will still represent a sufficiently-random distribution of individuals who may like or dislike, know or not know about, and be curious or disinterested by, horror movies
 
 c. Interview script: 
-1. On a scale of 1-10, how interested are you in horror movies? (before showing any visualizations)
-2. Who do you think this research is intended for?
+1. On a scale of 1-10, how interested are you in horror movies? (before showing any wireframes)
+2. Who do you think this research is intended for? (this and the following question is after showing the wireframes)
 3. Which chart did you find the most interesting and why?
 4. Can you identify 3 things that you would like more clarity on?
-5. Is there anything else you would love to have seen but did not see here?
+5. Is there anything else you would like to have seen but did not see here?
 6. On a scale of 1-10 now, how interested are you in horror movies?
 
 d. Findings
+#### Person 1: Graduate student of Tufts University (Master of Science in Economics), now working at a startup in North Carolina
+1. 100+
+2. Horror movie fans and possibly directors/producers
+3. Actually found the call-out statistics more interesting
+4. Which years are you looking at? Which countries?
+5. No, this is all really cool
+6. Still 100+
+
+
+#### Person 2: MYP Coordinator at an international school in Mumbai
+1. 3
+2. People who enjoy watching horror movies
+3. 
+
+#### Person 3: Fellow student at Carnegie Mellon University (Master of Information Systems Management)
 
 e. Changes
 
