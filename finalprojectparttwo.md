@@ -4,6 +4,7 @@
 Source: [Pixabay](https://pixabay.com/photos/pumpkins-trees-meadow-halloween-5675502/)
 
 After completing Part I of my project, I developed a more refined storyboard to resurrect the dying perception towards horror movies today. A quick recap of the story structure I had outlined last week is below:
+
 ## Petrifying Project Structure
 1. A brief background of horror movies 
 2. The changing success of horror movies over the years
@@ -12,6 +13,8 @@ After completing Part I of my project, I developed a more refined storyboard to 
 5. Insights and interesting analytics
 6. Establishment of guidelines or recommendations as a CTA (call-to-action) for movie makers
 7. Optimism for the future, crushing uncertainty
+
+When I more carefully observed the datasets I had collected from my IMDb and Rotten Tomatoes sources, I realized that my story would reach its best potential if I also included some well-researched qualitative pieces related to horror psychology, phobias and reviewer sentiments. A classmate from my critique team was very generous in sharing [this](https://www.indiewire.com/2021/08/candyman-why-horror-movies-are-the-future-1234660349/) article that adopts an optimistic view towards horror in cinema. She also shared how, through [this](https://screenrant.com/blumhouse-horror-movie-changes-small-budget-after-coronavirus/) article, major horror movie production companies may be planning to incorporate an experimental low-budget model in creating new movies during the pandemic. 
 
 ## Witchy Wireframes and Spine-tingling Storyboard
 
