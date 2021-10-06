@@ -66,11 +66,17 @@ d. Findings
 
 
 #### Person 2: MYP Coordinator at an international school in Mumbai
-1. 3
+1. 2
 2. People who enjoy watching horror movies
-3. 
+3. The pie chart, because these are apparently very real and common fears... and I'm not afraid of any of these
+4. I think everything was clear, but who do you think will find this most interesting?
+5. Some ideas given by people like Vikram Bhatt or Ram Gopal Verma
+6. 2.5
 
 #### Person 3: Fellow student at Carnegie Mellon University (Master of Information Systems Management)
+1. 0
+2. Directors or script-writers of horror movies
+3. 
 
 e. Changes
 
