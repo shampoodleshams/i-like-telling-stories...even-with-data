@@ -31,6 +31,10 @@ Additionally, a classmate from my critique team was very generous in sharing [th
 My final project and presentation will flow in the following way:
 ![IMG_20211005_211534__01](https://user-images.githubusercontent.com/78868693/136125519-0c2ad3aa-91d4-41a5-a18a-9c7a251c9a73.jpg)
 
+View my storyboard below:
+![IMG_20211005_212853__01__01](https://user-images.githubusercontent.com/78868693/136126441-108d9969-e186-4e47-af5d-58a4e09f28eb.jpg)
+
+
 ## Malicious Moodboards
 #### Vile Version 1
 <img width="601" alt="moodboard 1" src="https://user-images.githubusercontent.com/78868693/136116182-98cef609-b18d-4a52-90ba-a67aa51184ff.png">
