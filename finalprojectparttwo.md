@@ -3,7 +3,7 @@
 ![pumpkins-gdb531c807_1920](https://user-images.githubusercontent.com/78868693/136119414-759ed93b-c97d-4f5b-9f47-882bbe2915d0.jpg)
 Source: [Pixabay](https://pixabay.com/photos/pumpkins-trees-meadow-halloween-5675502/)
 
-After completing Part I of my project, I developed a more refined storyboard to resurrect the dying perception towards horror movies today. A quick recap of the story structure I had outlined last week is below:
+After completing Part I of my project, I developed a more refined storyboard to resurrect the alleged [dying perception](https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/) towards horror movies today. A quick recap of the story structure I had outlined last week is below:
 
 ## Petrifying Project Structure
 1. A brief background of horror movies 
