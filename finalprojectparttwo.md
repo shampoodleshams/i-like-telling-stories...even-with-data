@@ -46,7 +46,9 @@ d. the findings from your interviews; and
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
 
 ## Malicious Moodboards
-Here are two versions of a potential moodboard for my final story:
+When developing my moodboards, I tried to go for colors that strayed away from typical horror-movie-poster colors like black, red, harsh navy blues and dark greens. I did this because I felt like non-horror movie enthusiasts, or worse, people who actively dislike horror movies, shouldn't need an extra reason to associate my project with what they've been conditioned to feel through conventional horror movie posters. I thus chose to use my two favorite combinations of colors instead: blue and yellow, and pink and grey.
+
+Here are two moodboard versions for my final story:
 
 #### Vile Version 1
 <img width="601" alt="moodboard 1" src="https://user-images.githubusercontent.com/78868693/136116182-98cef609-b18d-4a52-90ba-a67aa51184ff.png">
