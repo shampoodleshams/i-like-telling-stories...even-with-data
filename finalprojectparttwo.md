@@ -50,35 +50,44 @@ b. Approach: peers and family members who may not be randomly-selected, but will
 c. Interview script: 
 1. On a scale of 1-10, how interested are you in horror movies? (before showing any wireframes)
 2. Who do you think this research is intended for? (this and the following question is after showing the wireframes)
-3. Which chart did you find the most interesting and why?
-4. Can you identify 3 things that you would like more clarity on?
-5. Is there anything else you would like to have seen but did not see here?
-6. On a scale of 1-10 now, how interested are you in horror movies?
+3. How did you feel in going through these wireframes?
+4. Which chart did you find the most interesting and why?
+5. Can you identify 3 things that you would like more clarity on?
+6. Is there anything else you would like to have seen but did not see here?
+7. On a scale of 1-10 now, how interested are you in horror movies?
+8. Open discussion, last thoughts, any questions
 
 d. Findings
 #### Person 1: Graduate student of Tufts University (Master of Science in Economics), now working at a startup in North Carolina
 1. 100+
 2. Horror movie fans and possibly directors/producers
-3. Actually found the call-out statistics more interesting
-4. Which years are you looking at? Which countries?
-5. No, this is all really cool
-6. Still 100+
+3. Very interested. The colors and kinds of stats, and even just the topic itself... really incredible
+4. Actually found the call-out statistics more interesting
+5. Which years are you looking at? Which countries?
+6. No, this is all really cool
+7. Still 100+
 
 
 #### Person 2: MYP Coordinator at an international school in Mumbai
 1. 2
 2. People who enjoy watching horror movies
-3. The pie chart, because these are apparently very real and common fears... and I'm not afraid of any of these
-4. I think everything was clear, but who do you think will find this most interesting?
-5. Some ideas given by people like Vikram Bhatt or Ram Gopal Verma
-6. 2.5
+3. It was interesting. You've put in a good amount of thinking into this.
+4. The pie chart, because these are apparently very real and common fears... and I'm not afraid of any of these
+5. I think everything was clear, but who do you think will find this most interesting?
+6. Some ideas given by people like Vikram Bhatt or Ram Gopal Verma
+7. 2.5
 
 #### Person 3: Fellow student at Carnegie Mellon University (Master of Information Systems Management)
 1. 0
 2. Directors or script-writers of horror movies
-3. 
+3. This was overall very interesting. I liked the non-policy feel of this project, it's really unique
+4. The pie chart and the recommender boxes in the end
+5. How confident can the audience be that your recommendations will lead to success? 
+6. Can you add more percentages like you did within the first box in the other recommendations? Maybe you can add more boxes too... the first part of the story was really cool where you spoke a lot more about culture-specific things too
+7. 0
 
 e. Changes
+In hindsight, I realized I needed to include ideas that were a lot more measurable in the recommendations towards the end. The statistics seemed to work for my CMU peer, who thought it would be beneficial to provide credibility to the recommendations. I will also consider adding more substantiation about the years looked at, the countries from which these movies originated, the streaming platform they're available on, the original language of the movies, and the languages the movies are available in. Most of the wireframes for the charts seemed quite intuitive to the three users. I might consider playing around with the colors a little more, and refining the language of the story to make it concise, interesting and actionable.
 
 ## Malicious Moodboards
 When developing my moodboards, I tried to go for colors that strayed away from typical horror-movie-poster colors like black, red, harsh navy blues and dark greens. I did this because I felt like non-horror movie enthusiasts, or worse, people who actively dislike horror movies, shouldn't need an extra reason to associate my project with what they've been conditioned to feel through conventional horror movie posters. I thus chose to use my two favorite combinations of colors instead: blue and yellow, and pink and grey.
