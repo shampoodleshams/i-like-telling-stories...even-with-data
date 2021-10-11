@@ -14,7 +14,7 @@ In this project, I will identify features of a horror movie that make it success
 * Movie ratings that have been measured and recorded in a regularized way over the years (as a percentage)
 * Box office collections (in US dollars, adjusting for inflation)
 * Volume of international viewership
-  
+ 
 <br>Additionally, features of a horror movie could include quantifiable elements like:
 * Length and pace
 * Use and frequency of jump scares
