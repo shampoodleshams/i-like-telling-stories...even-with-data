@@ -11,9 +11,9 @@ Having watched over 150 horror movies from more than 4 continents and of at leas
 
 In this project, I will identify features of a horror movie that make it successsful. Because subjectively answering this project goal could make it vulnerable to ambiguities and complexity, I will define "success" more quantitatively. In particular, I will define horror movie success using the following potential metrics:
 
-<li> Movie ratings that have been measured and recorded in a regularized way over the years (as a percentage)
-<li> Box office collections (in US dollars, adjusting for inflation)
-<li> Volume of international viewership 
+* Movie ratings that have been measured and recorded in a regularized way over the years (as a percentage)
+* Box office collections (in US dollars, adjusting for inflation)
+* Volume of international viewership
   
 <br><br> Additionally, features of a horror movie could include quantifiable elements like:
 <li> Length and pace
@@ -24,7 +24,7 @@ In this project, I will identify features of a horror movie that make it success
 <li> Central use of gore, weapons, trauma-inducing tools to incite horror
 <li> Central use of psychological fears/phobias (agoraphobia, arachnophobia, thalassophobia) to incite horror
 
-<br> The audience of my project might include horror movie creators and critics. They could say something like, "As a horror movie creator, I want to know what truly works for my audience so that I can create top-grossing, widely-reviewed, impactful horror movies while I'm alive," and, through my story, be able to identify specific fear triggers, movie attributes and psychological elements to adopt in their next feature films.
+<br><br> The audience of my project might include horror movie creators and critics. They could say something like, "As a horror movie creator, I want to know what truly works for my audience so that I can create top-grossing, widely-reviewed, impactful horror movies while I'm alive," and, through my story, be able to identify specific fear triggers, movie attributes and psychological elements to adopt in their next feature films.
 
 ## Petrifying Project Structure
 1. A brief background of horror movies 
