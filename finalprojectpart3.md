@@ -1,11 +1,11 @@
 # The Healing of Horror 
 # _Final Project - Part III_
-
+### View my final story on my personal website [here](https://www.shampoodleshams.com/horror)
+<br><br>
 ![bubbles-g617376292_1920](https://user-images.githubusercontent.com/78868693/136892149-bc7f77a8-8301-457f-93dc-5b9c9b9aa709.jpg)
 Source: [Pixabay](https://pixabay.com/photos/bubbles-ocean-sea-underwater-water-1836457/)
 
-### View my final story on my personal website [here](https://www.shampoodleshams.com/horror)
-
+### Reflections
 A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
 ### References
