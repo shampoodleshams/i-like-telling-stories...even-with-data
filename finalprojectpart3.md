@@ -13,7 +13,8 @@ I really enjoyed refining my project from Part II to get my most updated final p
 To create digital versions of my wireframes from Parts I and II, I used a variety of different tools:
 1. **Flourish**, to build my data-centered visualizations (scatter graph, bar charts and radial graph)
 2. **Wordclouds**, a new tool to show proportions of word usage in a dataset
-3. **Wix tables**
+3. **Wix visualizations**, including repeater blocks, tables and illustrated video elements
+A major challenge in translating my wireframes to digital versions was that I did not have the right kind of data to capture what I had in mind. Therefore, I had to tweak my wireframe ideas slightly to present a story that I _did_ see in my datasets instead. In addition, I added several new secondary sources to expand my project's scope beyond just quantitative statistics. This helped me explore mise-en-scène elements with lower constraints.
 
 
 A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
