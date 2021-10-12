@@ -46,4 +46,4 @@ Here's an attempt at using the online tool Flourish to visualize data about covi
 
 #### Project 6
 ###### October 10, 2021: Final Project part III
-[Learn](/finalprojectparttwo.md) a secret recipe to making a horror movie that _always_ works.
+[Learn](/finalprojectpart3.md) a secret recipe to making a horror movie that _always_ works.
