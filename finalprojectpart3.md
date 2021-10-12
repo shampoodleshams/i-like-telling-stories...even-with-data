@@ -5,12 +5,18 @@
 
 A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
-
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
-
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctly.  Make sure to add / update any citations and / or other content that you used to create your data story.  Make sure you have cited external sources correctly.  References should also be clearly identified on your final data story itself.  Review the library's guide if you have questions. (Part III)
-
-Include any other information that helps round out your data story. (Part III)
+### References
+1. Top 100 horror movies - rotten tomatoes. Accessed October 2, 2021. https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/. 
+2. “Find Open Datasets and Machine Learning Projects.” Kaggle. Accessed October 2, 2021. https://www.kaggle.com/datasets?search=horror. 
+3. Ramella, Brynne. “Blumhouse Is on the Brink of Changing Horror Movies.” ScreenRant, May 20, 2020. https://screenrant.com/blumhouse-horror-movie-changes-small-budget-after-coronavirus/. 
+4. “Features.” Flourish. Accessed October 9, 2021. https://flourish.studio/. 
+5. Zygomatic. “Free Online Word Cloud Generator and TAG Cloud Creator.” wordclouds.com. Accessed October 10, 2021. https://www.wordclouds.com/.
+6. “Has the Quality of Horror Movies Declined over Time?” Where's The Jump?, February 23, 2020. https://wheresthejump.com/has-the-quality-of-horror-movies-declined-over-time/. 
+7. Shelton, Jacob. “15 Ways You Didn't Even Realize Horror Movies Are Manipulating You into Fear.” Ranker. April 5, 2017. https://www.ranker.com/list/horror-movie-tricks-for-scaring-the-audience/jacob-shelton.
+8. “By Shreya Sheth, Henley Research Fellow, Chapman University.” Accessed October 9, 2021. https://www.chapman.edu/wilkinson/research-centers/babbie-center/_files/americas-top-fears-2019.pdf. 
+9. Weinberg, Scott. “15 Movies That Will Scare the SH*T out of You.” Thrillist. Accessed October 10, 2021. https://www.thrillist.com/entertainment/nation/best-scary-movies-to-watch-based-on-phobias. 
+10. “Why Do We like Horror Movies?” Tufts Now, October 30, 2018. https://now.tufts.edu/articles/why-do-we-horror-movies. 
+11. “R/Scarymovies.” reddit. Accessed October 11, 2021. https://www.reddit.com/r/Scarymovies/.
+12. III, Trey Hilburn, and Waylon Jordan. “Horror Movie News.” iHorror, August 31, 2021. https://www.ihorror.com/. 
 
 #### Go Back To: [Final Project Part I](final_project_Shambhavi.md) or [Final Project Part II](finalprojectparttwo.md)
