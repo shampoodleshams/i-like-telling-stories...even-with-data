@@ -1,7 +1,7 @@
 # The Healing of Horror 
 # _Final Project - Part III_
 ### View my final story on my personal website [here](https://www.shampoodleshams.com/horror)
-<br><br>
+
 ![bubbles-g617376292_1920](https://user-images.githubusercontent.com/78868693/136892149-bc7f77a8-8301-457f-93dc-5b9c9b9aa709.jpg)
 Source: [Pixabay](https://pixabay.com/photos/bubbles-ocean-sea-underwater-water-1836457/)
 
