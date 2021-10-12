@@ -111,3 +111,5 @@ I set up an Instagram poll to find out which one people generally liked more, an
 ![Screenshot_20211005-230147__01__01](https://user-images.githubusercontent.com/78868693/136134133-a31aa549-9f86-4280-8a59-e46bc7962ce6.jpg)
 
 However, based on my in-person interactions with my peers in class and a video call with two family members, the first one won by a larger margin. I will consider working with a color palette and visual scheme that more closely follows the first moodboard!
+
+#### Next Up: [Final Project Part III](finalprojectpart3.md) | Go Back To: [Final Project Part I](finalprojectpartone.md)
