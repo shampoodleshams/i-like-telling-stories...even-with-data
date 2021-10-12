@@ -5,6 +5,17 @@
 Source: [Pixabay](https://pixabay.com/photos/bubbles-ocean-sea-underwater-water-1836457/)
 
 ### Reflections
+I really enjoyed refining my project from Part II to get my most updated final project story. I performed three main tasks:
+1. Create digital versions of all my wireframes from Parts I and II.
+2. Develop my final storyboard. 
+3. Adapt user research results into my story.
+
+To create digital versions of my wireframes from Parts I and II, I used a variety of different tools:
+1. **Flourish**, to build my data-centered visualizations (scatter graph, bar charts and radial graph)
+2. **Wordclouds**, a new tool to show proportions of word usage in a dataset
+3. **Wix tables**
+
+
 A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
 ### View my final story on my personal website [here](https://www.shampoodleshams.com/horror)
