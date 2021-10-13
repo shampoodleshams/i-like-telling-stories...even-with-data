@@ -108,4 +108,4 @@ I might even add a “How Much Time Did It Take For You To Fully Understand The 
 Essentially, if I were asked whether a graph was intuitive or not, I would likely say yes unless there was a very strong reason to convince me otherwise. Similarly, if this binary question were expanded to a scale from 1 to 10, I would still lean towards numbers beyond 5 because going below that would be equivalent to saying, “no.” Unless there was a strong reason to convince me otherwise, I would most probably rank a graph above average (>5) on intuitiveness. 
 To solve this problem, it might help to reframe the question to “how much time did it take you to fully understand this?” I think we’d get more honest responses because we’re forced to come up with a number of our own. We aren’t just settling for one of the options provided.
 
-
+#### Return to the [home page](/README.md)
