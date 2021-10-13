@@ -113,3 +113,4 @@ I set up an Instagram poll to find out which one people generally liked more, an
 However, based on my in-person interactions with my peers in class and a video call with two family members, the first one won by a larger margin. I will consider working with a color palette and visual scheme that more closely follows the first moodboard!
 
 #### Next Up: [Final Project Part III](finalprojectpart3.md) | Go Back To: [Final Project Part I](final_project_Shambhavi.md)
+#### Return to the [home page](/README.md)
